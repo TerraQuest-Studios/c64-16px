@@ -2,7 +2,7 @@ Change Log for C64 texture pack
 ===============================
 
 2012-06-03: Added support for blox and bobblox mods, reworked default 
-wood slightly, brought moreblocks support up to date.
+wood slightly, brought moreblocks and moreores support up to date.
 
 2012-05-27: Added support for maptools, undid changes to iron apple (and 
 made it look better), added support for darkrose's active furnaces 
